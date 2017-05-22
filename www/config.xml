@@ -3,10 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "https://github.com/thicketta/AutoBuildTest"
-        id        = "com.sanderson.unity.autobuildtest"
+        id        = "com.sanderson.unity.AutoBuildTest"
         version   = "1.0.13">
 
-    <name>AutoBuildTest</name>
+    <name>Auto Build Test</name>
 
     <description>
         Hello World Sample App to test if builds work correctly.
